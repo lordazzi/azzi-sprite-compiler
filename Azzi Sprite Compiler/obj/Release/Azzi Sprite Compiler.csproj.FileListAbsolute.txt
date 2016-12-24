@@ -1,0 +1,9 @@
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\bin\Release\Azzi Sprite Compiler.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\bin\Release\Azzi Sprite Compiler.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Release\Azzi_Sprite_Compiler.MasterForm.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Release\Azzi_Sprite_Compiler.Properties.Resources.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Release\Azzi_Sprite_Compiler.Sobre.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Release\Azzi Sprite Compiler.csproj.GenerateResource.Cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Release\Azzi Sprite Compiler.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Release\Azzi Sprite Compiler.pdb

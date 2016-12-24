@@ -1,0 +1,19 @@
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Compiler\bin\Debug\Azzi Sprite Compiler.exe
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Compiler\bin\Debug\Azzi Sprite Compiler.pdb
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Compiler\obj\Debug\Azzi_Sprite_Compiler.Form1.resources
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Compiler\obj\Debug\Azzi_Sprite_Compiler.Properties.Resources.resources
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Compiler\obj\Debug\Azzi Sprite Compiler.csproj.GenerateResource.Cache
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Compiler\obj\Debug\Azzi Sprite Compiler.exe
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Compiler\obj\Debug\Azzi Sprite Compiler.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Debug\Azzi Sprite Compiler.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Debug\Azzi Sprite Compiler.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Debug\Azzi_Sprite_Compiler.MasterForm.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Debug\Azzi_Sprite_Compiler.Properties.Resources.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Debug\Azzi Sprite Compiler.csproj.GenerateResource.Cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\bin\Debug\Azzi Sprite Compiler.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\bin\Debug\Azzi Sprite Compiler.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Debug\Azzi_Sprite_Compiler.Sobre.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Debug\Azzi_Sprite_Compiler.configuracoes.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler\Azzi Sprite Compiler\obj\Debug\Azzi_Sprite_Compiler.LoginForm.resources
