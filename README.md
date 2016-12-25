@@ -1,4 +1,4 @@
-# azzi-sprite-decompiler
+# Azzi Sprite Compiler
 Da série "coisas que desenvolvi quando participava das comunidade de Open Tibia entre 2007 e 2010"
 
 Transforma o arquivo SPR do tibia em imagens editáveis, e consegue reescrever o arquivo SPR depois
