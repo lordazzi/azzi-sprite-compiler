@@ -160,7 +160,7 @@ namespace Azzi_Sprite_Compiler
 
         private void Donate_Click(object sender, EventArgs e)
         {
-            Process.Start("http://pibipiranga.com.br/personal/donation.html");
+            Process.Start("javascript:alert('ops')");
         }
 
         private void About_Click(object sender, EventArgs e)
